@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "giga-green-meet-api",
+  "private_key_id": "7ec88a255f0ca68a8623228d0b722994906bfc8d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCPh4fksy8B4Exd\n2dw3f2sPRG3KivvRK+McyNMh7ESMapt4sqpIFXc7aQCZpmC3DNQzkvUxu3bX1ddX\nRjTBncSNytQuf3RZfInr4rrXnSjySCk7IyQ6qIxMIawkebnDgACl6Qy7VcLWKgOe\nnVijfrAihuMwVL7jLvx7WMnEbChRMrNV9E2SgpgNXpR3w5GET09kmCCUqVjfExXq\ndcx7luAancpq+797le0dCAFj6HzGZX/tEmSn7FvdO1RURW3mvbl1Y5VWSULflRg5\nLv6RcIK3S1/nHXc+CT1jNu1DjydbvFGxvTmcNazG5s2BrPT5NyRpwN3xA+sf9cW8\nwqxoZly3AgMBAAECggEADS6SYYO/Znm2KcxveD1glMdhGgAHvp88PZGIKo5rgUXt\nP3mRQAuQpsku/+2S5lzsRExT7pxb/tip7V8KS1n1Cly9fgPAqNNSS3LIXDMX5qCQ\nANlqY2TFddyF1dfEIttns9UikTYALfEv4eprkKB7BsDCrtaprW3MTHvMFBkm3sYZ\nClh3nOSQOsolbSsmO2N46noFhstl8176cJq3qXZrXSrQpNzXdR5OC2DLDdsRWLVE\n8sevqF/3gj6bzAm5bvACAvm6Lai+QNE+s7cYSiT4gxX/ArbG7E/8sD5iT7lE8Ttb\nhjn+RsGTnH0NFIZ8j4VSH1Ot41WP6rvK+TgtqnwRiQKBgQDIGN7BMgjLaSXk5AxT\n20vPH74c8SbWfOvR8mtfzSYRKMY/AoADXMEg+DaSBRck8BUoRXwI6U0drtCpDG/n\nkjfPveZj2OPCxMt379HcDxY3K+Rpb20JkAfGMiZGVt1Zuz63UTs5dm+dz7ANKT4q\niYrj02Je5UW7um/L9LQEduqG0wKBgQC3oOKYx+fztp8twYpwCaiurGtuURYFZEhy\n0HqymKkrrpdfMEcm1bqXP11uk8PPMQIkBMpbO0ybsz0zWv5romxEsYDNT4IAJQRB\ncSPNLgsSl4CQGvp99zUDqjxPDIa7h43cUbop95cWZ/Afwz+/KjkiJkNk7j/E+A7w\n7y4icyHsDQKBgQCMFWU1ScsAZM+Dq+e5eUhca/OTnXw8It6Rb66eNigVUT9g82Yd\ndH08kKjblza5xF57gBGyx2oWgsFP6AYbz7DE/kRh2ICzZUSw5bM85U7/NvpEmh5y\n2GOo7IkBK2TxofXpLrRQqUrA55pvzFTaQMp8bwtqNgaYw4/q8Jhqm7nawwKBgA6y\nLJBnp1Ok8PZbf/XZgAuCtxJcIPQLg5TUxI0YlKlvTqQKnBcqkcVbB+I6pzgkxvQV\nAhDtHQN1A9fhV21L0Xhp8FH+I/xY+g82u9PG9JHnWB2wWw3LxA1oCW2WJg5KGftg\n+xIyw3/Cj8ArAyYMfggSoeApBSeBZsi3i6ysJDHdAoGBAIi4UX81kp/5ROpSEeRq\n5tciXeRScHoFDCkBAefGaEIGt2EUCru9U4fLCeWvJZl4ruuPe9Pmco+4vXzvBTtb\nvbD2vVKXF8o8NS7Iq9yRnHwEod3r0vK+V17M5Rw7wCQRiF58aVxM5Qh+aGG5hyZ+\ny+IQyXZwPJUSNNs9H214g319\n-----END PRIVATE KEY-----\n",
+  "client_email": "meet-service-account@giga-green-meet-api.iam.gserviceaccount.com",
+  "client_id": "108521300621065534787",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/meet-service-account%40giga-green-meet-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
